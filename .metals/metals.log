@@ -86,3 +86,6 @@ java.util.concurrent.TimeoutException
 2023.08.22 09:04:15 WARN  no build target for: C:\Users\User\Documents\Scala progarams\Tutorial09\src\Q2.scala
 2023.08.22 09:04:30 WARN  no build target for: C:\Users\User\Documents\Scala progarams\Tutorial09\src\Q2.scala
 2023.08.22 09:04:40 WARN  no build target for: C:\Users\User\Documents\Scala progarams\Tutorial09\src\Q1.scala
+2023.08.22 09:17:24 WARN  no build target for: C:\Users\User\Documents\Scala progarams\Tutorial09\src\Q2.scala
+2023.08.22 09:17:25 WARN  no build target for: C:\Users\User\Documents\Scala progarams\Tutorial09\src\Q3.scala
+2023.08.22 09:17:27 WARN  no build target for: C:\Users\User\Documents\Scala progarams\Tutorial09\src\Q4.scala
